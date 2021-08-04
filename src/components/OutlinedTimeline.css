@@ -1,0 +1,56 @@
+.outlineTimeline {
+position: relative;
+  z-index: 1;
+}
+.element_title {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.element_title2 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #e7069f;
+  text-decoration: underline;
+}
+.element_title3 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #fcac15;
+  text-decoration: underline;
+}
+.element_title4 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color:#8F2D56;
+  text-decoration: underline;
+}
+.element_title5 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #dc462a;
+  text-decoration: underline;
+}
+.element_title6 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #73D2DE;
+  text-decoration: underline;
+}
+.element_title7 {
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #1f1f95;
+  text-decoration: underline;
+}
+.element_title8{
+  font-family: 'Knewave', cursive;
+  font-size: 30px;
+  color: #10806f;
+  text-decoration: underline;
+}
+
+.element_p {
+  font-family:'Oxygen', sans-serif;
+  font-size: 15px;
+}
