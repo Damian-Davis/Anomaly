@@ -469,7 +469,7 @@
             "atomic_mass": 26.98153857, 
             "boil": 2743, 
             "category": "post-transition metal",
-            "id": "post", 
+            "id": "#post", 
             "color": null, 
             "density": 2.7, 
             "discovered_by": null, 
