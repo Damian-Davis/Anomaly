@@ -1,46 +1,25 @@
 
 import React from "react";
 
-import { Line } from "react-chartjs-2";
+
 import {
-  Button,
+ 
   Card,
   CardHeader,
   CardBody,
   CardFooter,
-  CardTitle,
+
   ListGroupItem,
   ListGroup,
   Container,
   Row,
   Col,
-
-
- 
-
-  Label,
-  FormGroup,
-  Form,
-  Input,
-  FormText,
-  NavItem,
-  NavLink,
-  Nav,
-  Table,
-  TabContent,
-  TabPane,
-  tabs,
-  setTabs,
-  UncontrolledTooltip,
-  UncontrolledCarousel,
 } from "reactstrap";
 
 
 
 
-import classnames from "classnames";
-// javascript plugin used to create scrollbars on windows
-import PerfectScrollbar from "perfect-scrollbar";
+
 // reactstrap components
 import {
 
@@ -56,7 +35,7 @@ import "assets/css/nucleo-icons.css";
 
 import { HashLink } from 'react-router-hash-link';
 
-import bigChartData from "variables/charts.js";
+
 
 
 export default function Index() {
@@ -163,7 +142,7 @@ export default function Index() {
         <Container>
           <Row className="justify-content-center">
             <Col lg="12">
-              <h1 className="text-center"></h1>
+             
               <Row className="row-grid justify-content-center">
                 <Col lg="3">
                   <div className="info">
