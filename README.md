@@ -1,5 +1,5 @@
 
-This is my Final Project for my indpendent study. 
+This is my Final Project for my indpendent study. This project was made with a creative tim reactstrap template, material ui and a periodic table data set. 
 
 
 
