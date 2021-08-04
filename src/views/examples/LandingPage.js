@@ -1,14 +1,14 @@
 
 import React from "react";
 
-import { Line } from "react-chartjs-2";
+
 import {
   Button,
   Card,
   CardHeader,
   CardBody,
   CardFooter,
-  CardTitle,
+  
   ListGroupItem,
   ListGroup,
   Container,
@@ -18,29 +18,13 @@ import {
 
  
 
-  Label,
-  FormGroup,
-  Form,
-  Input,
-  FormText,
-  NavItem,
-  NavLink,
-  Nav,
-  Table,
-  TabContent,
-  TabPane,
-  tabs,
-  setTabs,
-  UncontrolledTooltip,
-  UncontrolledCarousel,
+ 
 } from "reactstrap";
 
 
 
 
-import classnames from "classnames";
-// javascript plugin used to create scrollbars on windows
-import PerfectScrollbar from "perfect-scrollbar";
+
 // reactstrap components
 import {
 
@@ -50,16 +34,16 @@ import {
 import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import Footer from "components/Footer/Footer.js";
 import PeriodicTable from "components/PeriodicTable.js";
-import data from "../../components/PeriodicTableJSON.json";
+
 import OutlinedTimeline from "components/OutlinedTimeline";
 import "assets/css/nucleo-icons.css";
 
 import { HashLink } from 'react-router-hash-link';
 
-import bigChartData from "variables/charts.js";
+
 
 export default function LandingPage() {
-  const [tabs, setTabs] = React.useState(1);
+  
   React.useEffect(() => {
     document.body.classList.toggle("landing-page");
     // Specify how to clean up after this effect:
@@ -168,7 +152,7 @@ export default function LandingPage() {
           <Container>
             <Row className="justify-content-center">
               <Col lg="12">
-                <h1 className="text-center"></h1>
+                
                 <Row className="row-grid justify-content-center">
                   <Col lg="3">
                     <div className="info">
